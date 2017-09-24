@@ -1,5 +1,7 @@
 # node-module-compile-transform-ast
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/node-module-compile-transform-ast.svg)](https://greenkeeper.io/)
+
 With `node-module-compile-transform-ast`, ast transform functions can be applied
 to any loaded module with a filename matching a given regular expression. All
 the magic you see here is thanks to [esprima](https://npm.im/esprima), [escodegen](https://npm.im/escodegen), and [esquery](https://npm.im/esquery).
